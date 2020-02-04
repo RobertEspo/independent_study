@@ -1,6 +1,7 @@
-# independent_study
+
+# independent\_study
 
 ## TODO list
 
-- [ ] talk to Dr. D'Imperio
-- [ ] study github
+  - [ ] talk to Dr. D’Imperio
+  - [ ] study github

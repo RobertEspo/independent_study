@@ -1,0 +1,9 @@
+---
+output: github_document
+---
+
+# Reading list
+
+```{r, 'basic-project-structure', comment=NA, echo=F}
+fs::dir_tree(recurse = 1)
+```
