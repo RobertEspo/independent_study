@@ -1,7 +1,7 @@
 
-# Reading list
+# Reading list (last update: 2020-02-04)
 
     .
-    ├── README.Rmd
-    ├── README.md
-    └── armstrong_2014.pdf
+    +-- armstrong_2014.pdf
+    +-- README.md
+    \-- README.Rmd
