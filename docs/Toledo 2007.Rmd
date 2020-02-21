@@ -1,0 +1,13 @@
+---
+title: "Toledo 2007"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Toledo investigates previous intonation work through the AM framework by identifying the tonal taxonomy. I believe he is refuting previous work by Hualde (2002) when he identified a generalized tone in Spanish L\*+H. Hualde claimed that the H could align with the nuclear or postnuclear syllable. Toledo wonders two things: is the L tone perceptively different from the H tone? and is there a way to eliminate the ambiguity of which syllable the H tone aligns with? In his study, he wants to investigate the tones L+H\* and H\*, to the ends that the former tone will not appear with great frequency in Spanish, and the latter tone will appear with much greater frequency in mono-, bi- and tritonal combinations.
+He uses two discourses from two Salvadoran radio announcers, each ten minutes long. He bases tonal differences on discrimination tests done by Pamies Bertrán (2002), which finds that listeners can discriminate tone differences of 1.50 st. In the paper, he highlights four utterances and demonstrates tonal alignment using schemas as well as spectrograms with F0 marked.
+
+Through the AM framework, he claims that tonal alignment need not be ambiguous. The tones considered by Hualde were not found through this framework. He claims that his study presents tonal alignment through both phonetic and phonological means, but I do not understand the phonological side of this study. Possibly the fact that he’s using lexical stress to anchor the nuclear tone, and using the threshold found by Bertrán to determine when tones differ?

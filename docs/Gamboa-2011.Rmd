@@ -1,0 +1,16 @@
+---
+title: "Gamboa-2011"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Gamboa and Morera take an inventory of intonational structure of declarative and interrogatives in Salvadoran Spanish to find this variety's melodic contours through an AM framework. They list the intonation patterns of a number of varieties (Mexican, Puerto Rican, Dominican, Venezuelan, Ecuadorian, Chilean, Argentinian; supplied by "atlas interactivo de la entonacion del espanol [2009]). 
+
+The speech samples for this study come from el Programa PROLHISPA de la Universidad Nacional. It includes 3 male and 3 female speakers grouped into 3 age categories: 20 years, 35 years, and 60 years old. These samples are available online.
+
+Most interestingly, sex had a large impact on patterns. In declarative sentences, women most frequently used (H+H\*) tones, while men used (L\*+L\*) tones. Interrogative utterances had greater variability, but across utterances, men were more likely to utilize L tones while women used H tones.
+
+Is intonation variability based on sex as distinct in other varieties of Spanish or other languages? Can these intonations be used performatively by people who would not traditionally use them (ie: trans people), or would other intonations be used? If a heritage speaker is exposed to solely one sex's intonation pattern, and they are another sex, what would the result be? 
