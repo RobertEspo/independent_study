@@ -1,0 +1,12 @@
+---
+title: "Azcunaga-2012"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Azcunaga Lopez presents numerous phonetic phenomena about Salvadoran Spanish. However, what is of interest to me is the geographic groupings he presents for varieties of Salvadoran Spanish. He defines five areas: La Zona Central (a center of influence from San Salvador); La Zona Occidental (bordering Guatemala); La Zona Oreiental (bordering Honduras and Nicaragua); La Zona Norte (bordering Honduras; it is mountanous and lexically conservative to colonial Spanish); and La Zona Costera. 
+
+These zones are defined through analysis of segments through questionnaires and interviews of eighty participants. Questions such as "lo contrario de muy malo es (muy bueno)" were used to determine outcomes of phonological processes (in this specific case, /b/ before /ui/). Would these geographic groupings hold up to analyses of other areas of the grammar?
