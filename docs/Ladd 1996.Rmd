@@ -1,0 +1,17 @@
+---
+title: "Ladd 1996"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Chapter One
+
+Ladd outlines a number of theories that have attempted to analyze intonation, but criticizes many of them on the basis that they do not appeal to phonology.
+
+Chapter Two
+
+In this chapter, Ladd proposes AM theory in an accessible way. He introduces the need to distinguish between pitch accents and edge tones. AM theory depends on specific events, as opposed to global contours spanning multiple syllables, with transitionary periods in between those discrete events. Combined, this allows researchers to parse the internal structure of prosodic events more accurately.
+
