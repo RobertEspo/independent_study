@@ -1,0 +1,17 @@
+---
+title: "Rao 2010"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Rao investigates final lengthening and pause duration at the right edge of intermediate phrases (IPs) and phonological phrases (PPHs) as a cue to signal the boundary. European Portguese displays a relationship between pause at IP and PPH boundaries and final lengthening; "longer pauses at IP boundaries correlate with increased final lengthening, while shorter pauses at PPH boundaries are tied to a lesser degree of lengthening" (Freitas 1990, Frota 2000). In this paper, he sought to find empirical evidence of an otherwise empirically undocumented phenomenon in Spanish. He sought to measure the lengthening that may occur at IP and PPH boundaries to stressed and final syllables and words. He compared the results to the EP data, to find a correlation between pause length and increased lengthening.
+
+Rao has six participants (two Cuban speakers, two Ecuadorian speakers, and two Spain speakers) read a passage entitled "En el campo." These speakers were chosen because they speak at a "normal" speech rate (5-7 syllables/second, Marin Galvez 1994). Once recorded, IP and PPH boundaries were coded (Truckenbrodt 1999). The coded text and recording was given to a native speaker of the same dialect to mark each pause as "long" "short" or "absent." 400ms was determined to be "long", and anything less would be "short".
+
+Rao finds that word duration, stressed syllables, and final syllables are significantly longer at IP and PPH boundaries than those that are not.
+
+Having established that, he then examines the effect of pause length on mean duration of the word, the stressed syllable, and the final syllable. He finds that the mean word duration is not significantly correlated with the pause type (there is overall difference significance for the three pause types, but no significance for short/long). For stressed and final syllables, however, he finds that shorter pauses are correlated with longer mean duration of the stressed or final syllable. The absence of a pause features the shortest mean duration of the syllable.
+
