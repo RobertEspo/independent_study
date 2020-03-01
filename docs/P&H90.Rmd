@@ -1,0 +1,20 @@
+---
+title: "P&H90"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Pierrehumbert & Hirschberg (1990) explore the pragmatic meanings associated with intonational contours in English through the AM framework. However, they never reference "pragmatics" at all in this article. They first define the tonal realizations possible for pitch accent, phrase accent, and boundary tone (each one operating on a progressively higher phonological domain) using description and schema. They clarify that these tones are not rise/falls, as has been suggested in other theories, but discrete level values. 
+
+They posit that the tune used over an intonational phrase specifies a relationship between the propositional content of the phrase and the mutual beliefs of participants in the discourse. They explain that tones that share features also share some aspects of meaning. Is this a universal phenomenon? The authors then demonstrate with examples the meanings that each pitch accent, phrase accent, and boundary tone is associated with based off of a corpus that they have collected.
+
+I am interested in two specific examples.
+
+The authors propose that H\* boundary tones are used to introduce new information into the discourse with commitment, while L\* boundary tones indicate that the information is old or should already be part of the shared beliefs of both speakers. Is this a universal? Do we see this in Spanish? In all varieties of Spanish?
+
+The authors propose that phrase accents involved in the interpretation of conjunction and disjunction. The presence or absence of a phrase boundary indicates the scope, whereas the actual accent indicates the exhaustivity of it. This reasoning applies to enumeratives ((a) do you want an apple or banana cake? (b) do you want apple or orange juice?) as well as the relationship between conjoined clauses. THe phrase accent in conjoined clauses can indicate relationships like temporal, causal, and enablement. (c) George ate the fish and got sick is ambiguous in its causal relationship (he ate the fish, so he got sick, OR he ate the fish and he got sick because he was around Mary last week who had the flu). An H tone favors the interpretation that the fish was the cause of his illness, whereas an L tone does not intonationally reinforce the implication.
+
+These two examples are things that I would be interested in exploring for Salvadoran Spanish. Is there a relationship between phrase accent and the introduction of new and old material into a discourse? More interesting to me, is there a relationship between phrase boundaries adn conjunction/disjunction? Can phrase boundaries be used in the same way as in English to signal relationships in lists or conjunctive clauses?
