@@ -1,0 +1,12 @@
+---
+title: "Rao2006"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Rao follows Searle (1977) in defining five pragmatic categories of speech acts (representatives, directives, commissives, expressives, and declarations) to determine the pitch contours associated with each category through the AM framework. Unlike previous studies, spontaneous speech is used. A female Iberian Spanish speaker, who is also a linguist and thus familiar with the pragmatic categories, produced the utterances elicited by questions. In addition to the pragmatic conditions' relationship with intonation, Rao also investigated a constraint proposed by Prieto 2004, that there is a PW/PPh limit for rapid labortory and unscripted speech.
+
+He finds that the "emotional load" of an utterance has the biggest effect on declarative intonation, and other factors include attitude toward a topic, old vs new information, emphasis, and utterance length. He suggests that intensity and duration of stressed syllables should be examined in the future, as well as the addition of a greater amount of spontaneous speech studies. He also suggests that this study be completed for other varieties of Spanish.
