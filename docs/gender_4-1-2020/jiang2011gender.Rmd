@@ -1,0 +1,10 @@
+---
+title: "jiang2011gender"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Jiang investigates gender differences in UK English intonation through the IViE corpus (Grabe) with the future interest of applying this research to help L2 speakers of English. She finds that females prefer a rising intonation, while males prefer a falling intonation. She aligns her research with Lakoff (2004), explaining her results by saying that a falling intonation displays the males' assertiveness and confidence in their utterance, whereas the falling tone of females is the result of a politeness function, constrained by gender stereotypes requiring women to "act as a lady." Although she aligns herself with popular literature, she fails to present a convincing argument for her claims.

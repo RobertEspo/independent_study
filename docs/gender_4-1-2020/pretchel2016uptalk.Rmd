@@ -1,0 +1,10 @@
+---
+title: "prechtel2016uptalk"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Pretchel & Cynthia investiage four intonation contours identified as uptalk or high rising terminal (HRT). These contours are H\* H-H%, H\* L-H%, L\* H-H%, and L\* L-H%. These tones were investigated in two Midwestern American English varieties. 16 participants divided equally by gender and dialect read short stories ranging from 23 to 65 seconds in duration. Of the four contours, a preference for contours with L\* pitch accents was found and H\* H-H% occured only twice in the data. There were no significant effects of gender, which runs contrary to previous studies that demonstrated higher productions in uptalk in females. Pretchel explains her results by relating uptalk to floor-holding and feedback-requesting pragmatic functions, of which neither pragmatic context was present in the reading tasks.
