@@ -1,0 +1,16 @@
+---
+title: "lowry2011belfast"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Lowry investigates intonation differences by gender in Belfast English in production and perception. Specifically, she investigates the informal observation that a falling pattern is produced, more often by females than males, instead of the "characteristics" rise-plateau pattern, and that these falling patterns in declarative sentences are perceived as "more expressive, emotionally engaged, assertive, and enthusiastic." This paper has a review on the Third Wave approach to sociolinguistic research (Campbell-Kibler 2009). 12 17-year-old from Belfast participated in three production tasks and two perception tasks. The three production tasks were the following: reading a version of the story Cinderella, reading isolated sentences from the same story, and a version of the Map Task (Anderson et al. 1991). The perception tasks had participants listen to recordings of Cinderella and the Map Task. For each task, they had to report descriptive judgements from the following list: "neutral, enthusiastic, emotionally engaged, bored, friendly, formal, expressive, and assertive."
+
+The story-reading and Map Task production tasks demonstrated a preference for females to produce falling intonations more than males as hypothesized, whereas no significant results were found for the reading of isolated sentences. The author claims that this is evidence that supports Laboc's (2011) claim that "female speakers lead in using standard linguistic forms". Females also used falling patterns more often in the story task than the Map Task, which Lowry explains by saying that the female participants were more willing to "perform", as they were instructed to read the story as if to a child.
+
+The perception study where participants listened to the story-reading task revealed that those who produced falling tones were described more often as expressive and emotionally engaged, and there was a negative correlation with the "neutral" descriptor. The perception study for the Map Task revealed a similar negative correlation with "neutral," as well as a positive correlation with expressive and enthusiastic. Of interest, the only male speaker who produced falling patterns was also the only male not described as "neutral."
+
+Lowry emphasizes that this data presents, in line with Third Wave sociolinguistics, an indirect relationship between gender and language, especially demonstrated by the singular male who broke from the "neutral" pattern in the perception studies.

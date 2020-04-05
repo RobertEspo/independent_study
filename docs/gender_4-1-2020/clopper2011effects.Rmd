@@ -1,0 +1,10 @@
+---
+title: "clopper2011effects"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Clopper and Smilijanic compare prosodic patterns in American English, investigating Midland (a "standard" variety) and Southern (taken to range from Texas to Virginia) varieties. 20 participants divided evenly by dialect and gender read the Goldilocks and Rainbow passages from the Nationwide Speech Project corpus (Clopper & Pisoni 2006). Researchers investigated speech rate, measured by pause frequency and duration, as well as the inventory and frequency of pitch accents, phrase accents, and boundary tones. Results demonstrated more frequent and longer pauses of Southern male speakers at IPs. Female speakers overall preferred L\*+H and L-H% contours, while they dispreferred H\* pitch accents. Southerm female spekaers preferred H- tones to link intermediate phrases within IPs. The researchers found that 7% of pitch accents were of the type L+H\*, which gives evidence that, as defined by MAE_ToBI, there is a threeway contrast between H\*, L+H\*, and L\*+H pitch accents. This experiment provides information only on the production of speech on a rather heterogenous group, given that the South is a massive geographic area, and would benefit from a more homogenous and/or larger sampling of "Southern" English, as well as a perception exercise to determine if the L+H\* and H* pitch accents are phonologically different.
