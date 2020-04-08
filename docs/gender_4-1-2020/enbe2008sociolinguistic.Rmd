@@ -1,0 +1,12 @@
+---
+title: "enbe2008sociolinguistic"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Enbe and Tobin investigate effects of age and gender on variation of intonation in Buenos Aires Spanish (BAS) in declaratives, Wh-questions, and exclamatives. 132 speakers were divided evenly in three age groups (5-8 years old, 18-50, 51-78), and divided in each age group evenly by gender (22 males, 22 females per age group). One sentence was used for each type: "El agua hierve"; "Donde vive el nene?"; "Gol!". The researchers used a repetion task because this data comes from a larger project involving neurodivergent individuals in comparison to neurotypical individuals. They recognize that this is not the best methodology for the study, and this study is borne out of opportunity. The target sentences were recorded by a 30-year-old female native speaker of BAS and played back to subjects.
+
+They claim four findings: 1) females, as predicted by Labov, prefer the prestigious prosodic forms, which takes more effort on the part of the speaker; 2) male children (5-8 year old) pattern like female speakers; 3) adult males (18-50 years old) have more variation in prosodic patterns than other groups; 4) adults (18-50) have the most variation in choice of prosodic patterns for declaratives and Wh-questions.
