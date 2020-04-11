@@ -1,0 +1,18 @@
+---
+title: "armstrong2010puerto"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Armstrong provides a description and analysis of Puerto Rican Spanish intonation, which has recieved previous attention, but never within the tenets of Sp_ToBI. 
+
+Of special note, she focuses on L\*+H and L+>H\* contours, which have been the subject of controversy in the AM and ToBI frameworks. In Dominican Spanish, these two contours are used for distinguishing braod vs narrow focus declaratives. She also finds similarity between the Caribbean varieties in their frequent use of L\*+H in prenuclear position.
+
+In yes-no questions, she finds final falls, another commanality with Caribbean varieties that distinguishes them from other Spanish varieties.
+
+She finds distinguishing contours for echo questions modulated by surprise and incredulity, both of which are similar to the contours produced for exclamatives. She explains the similarity by appealing to a common semantic meaning, where all three sentence types are characterized by an expression of emotive attitude.
+
+She also finds that L+H\* could be used at the intermediate phrase boundary to mark the boundary and provide an indexical cue for typologically similar varieties.
