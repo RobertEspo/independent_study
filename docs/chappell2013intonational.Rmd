@@ -1,0 +1,16 @@
+---
+title: "chappell2013intonational"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Chappell documents the intonation of 9 Nicagraguan Spanish speakers born and raised in Granadino. She examines intonation across seven sentence types: declaratives, unbiased yes-no questions, inner negation questions, outer negation questions, incredulous questions, surprise questions, and tag questions. The negation questions are motivated by Armstrong (2014) who demonstrated distinct intonation contours for inner negation and outter negation in Puerto Rican Spanish. Her goals were the following: to determine the contours associated with absolute questions and declaratives, as well as the differences between those two sentence types; the nuclear configuration associated with the seven sentence types; and if Granadino speakers pattern like Puerto Rican speakers in producing distinct nuclear configurations to distinguish between inner negation and outter negation, as well as between surprise and incredulous questions. Chappell collected data through a modified version of the Discourse Completion Test. Participants read a context, and then produced a target utterance, of which they were allowed to modify the syntax for it to sound more natural or fluid.
+
+In Granadino questions, Chappell finds two main nuclear configurations: H+L\*L% and L+H\*L%. Unlike Armstrong's findings for Puerto Rican Spanish, Chappell finds no clear or consistent differences in nuclear configuration between inner negation and outter negation, nor between surprise and incredulous questions. However, she hypothesizes that the strength of a speaker's belief in p or ~p will determine the production of H+L\*L% or L+H\*L%, respectively. She proposes that the latter contour is used to signal the speaker's "near rejection of the other conversational participant's proposition due to the speaker's stronger belief in ~p."
+
+Beyond nuclear configuration, she investigates continous variables. She finds that F0 excursions are distinct for surprise and incredulous questions: surprise questions are associated with expanded F0 while incredulity is associated by compressed F0. Prenuclear alignment is distinct for unbiased yes-no, inner negation, and outer negation questions. Declaratives and tag questions display downstepping across the utterance more than any other sentence type. These indicate that nuclear configuration is not the only intonational cue available to distinguish sentence types.
+
+Chappell situates her findings with Caribbean varieties of Spanish, where she finds that there is overlap in some nuclear configurations. Dominican Spanish patterns similarly to Nicaraguan Spanish for information-seeking yes-no questions, counter-expectational yes-no questions, and confirmation yes-no questions (however, there is more variability in the Dominican data than in either the Puerto Rican or Nicaraguan data). Puerto Spanish patterns similarly to Nicaraguan Spanish only for confirmation yes-no questions. She believes these similar features, and other features like -s lenition, indicate a relationship that is worth investigating. However, given that -s lenition is a fairly common phenomenon in the Hispanic world, I am unconvinced that that particular feature is indicative of anything.
