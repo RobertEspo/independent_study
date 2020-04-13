@@ -1,0 +1,16 @@
+---
+title: "willis2010dominican"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Willis' study examines the Spanish spoken in the Cibao region of the Dominican Republic, where he investigates the speech of three college-educated participants. The researchers elicited speech through a guided questionnaire. Participants were read a situation by the researcher (as opposed to the participant reading the elicitation, to prevent reading intonation), and the participant responded appropriately.
+
+Of note, yes-no questions were found to have either a falling nuclear pitch accent or a rising one, similar to what is found in Puerto Rican Spanish. It was typical to find H+L\* falling tones for focus (in declaratives and interrogatives), and the same tone for yes-no questions.
+
+Willis also found that any utterance type could be subject to a final rise. He notes a similarity between this and High Rising Terminal (or, uptalk) documented in New Zealand English. However, there is no supposed "form-context correspondence" that is believed to exist for NZE's uptalk for Dominican Spanish (as far as Willis' analysis goes).
+
+He notes a similarity between Dominican, Puerto Rican, and Canarian Spanish. All three varieties use L\*+H in declaratives and L+H\* to express focus, and questions can be produced with a falling nuclear pitch accent.

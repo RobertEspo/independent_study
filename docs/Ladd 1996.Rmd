@@ -15,3 +15,6 @@ Chapter Two
 
 In this chapter, Ladd proposes AM theory in an accessible way. He introduces the need to distinguish between pitch accents and edge tones. AM theory depends on specific events, as opposed to global contours spanning multiple syllables, with transitionary periods in between those discrete events. Combined, this allows researchers to parse the internal structure of prosodic events more accurately.
 
+Chapter Three
+
+Ladd explains the motivation for AM and ToBI for crosslinguistic, cross-variety, and typological research. He emphasizes that this is not meant to be an IPA of intonation, but instead a means to document and compare languages, especially in concert with one another. Languages should not be analyzed in isolation, but in comparison to other varieties and other languages. 
